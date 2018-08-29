@@ -24,8 +24,10 @@
 /nbdist/
 /.nb-gradle/
 
+## VS Code ##
 .mvn
 .settings
 .vscode
 mvnw
 mvnw.cmd
+/lib/
